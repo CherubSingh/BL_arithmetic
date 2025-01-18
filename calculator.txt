@@ -1,4 +1,7 @@
 Class calculator
 {
-	
+	public static void mul
+	{
+	return a*b;
+	}	
 }
