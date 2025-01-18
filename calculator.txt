@@ -4,7 +4,6 @@ Class calculator
 	{
 		return a+b;
 	}	
-
 	public static void sub()
 	{
 	return(a-b);
@@ -12,5 +11,8 @@ Class calculator
 	public static void mul
 	{
 	return a*b;
-	}	
+	public satic void div
+	{
+		return a/b;
+	}
 }
