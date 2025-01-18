@@ -1,4 +1,7 @@
 Class calculator
 {
-	
+	public static void add ()
+	{
+		return a+b;
+	}	
 }
