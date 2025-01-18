@@ -1,4 +1,7 @@
 Class calculator
 {
-	
+	public satic void div
+	{
+		return a/b;
+	}	
 }
