@@ -4,4 +4,11 @@ Class calculator
 	{
 		return a+b;
 	}	
+
+	public static void sub()
+	{
+	return(a-b);
+	}
+	
+
 }
