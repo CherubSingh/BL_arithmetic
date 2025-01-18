@@ -1,0 +1,18 @@
+Class calculator
+{
+	public static void add ()
+	{
+		return a+b;
+	}	
+	public static void sub()
+	{
+	return(a-b);
+	}
+	public static void mul
+	{
+	return a*b;
+	public satic void div
+	{
+		return a/b;
+	}
+}
