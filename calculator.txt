@@ -1,4 +1,8 @@
 Class calculator
 {
+	public static void sub()
+	{
+	return(a-b);
+	}
 	
 }
