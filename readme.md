@@ -1,2 +1,6 @@
-TASK 1
+Class calculator
+main
+{
+
+}
 TASK 2
