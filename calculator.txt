@@ -9,6 +9,8 @@ Class calculator
 	{
 	return(a-b);
 	}
-	
-
+	public static void mul
+	{
+	return a*b;
+	}	
 }
